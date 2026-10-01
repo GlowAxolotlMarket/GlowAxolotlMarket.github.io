@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://glowaxolotlmarket.github.io/sitemap.xml

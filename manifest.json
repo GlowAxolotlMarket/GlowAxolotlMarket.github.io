@@ -1,0 +1,26 @@
+{
+  "name": "57 проверенных прокси Telegram — TG Трекер, 15:33 МСК",
+  "short_name": "TG Трекер",
+  "description": "TG Трекер: 57 рабочих MTProxy для Telegram, проверены и обновлены. Свои серверы Lite64 + агрегатор публичных списков. Подключение в один клик, бесплатно.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4fbf7",
+  "theme_color": "#259d63",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
